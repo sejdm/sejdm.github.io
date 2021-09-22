@@ -1,4 +1,4 @@
 
-[Curves and Surfaces (MTH 201)](https://sejdm.github.io/201/)
+[Curves and Surfaces (MTH 201)](https://sejdm.github.io/mth201/)
 
-[Algebraic Topology (MTH 410)](https://sejdm.github.io/410/)
+
